@@ -1,0 +1,42 @@
+.foto-usuario {
+  width: 60px;
+  height: 60px;
+  border-radius: 20%;
+  object-fit: cover;
+  border: 3px solid #a42783;
+}
+
+.btn-purple{
+    background-color: purple !important;
+}
+
+.btn-green{
+    background-color: rgb(61, 183, 132) !important;
+}
+
+.ltr-purple{
+    color: purple !important;
+}
+
+.ltr-white{
+    color: white !important;
+}
+.font-page-green{
+    background-color: rgb(233, 251, 229) !important;
+}
+
+.font-page-purple{
+    background-color: rgb(217, 193, 230) !important;
+}
+
+.table-purple th {
+    background-color: #ab7dc7 !important; 
+    color: white !important;
+}
+
+.font-digital {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 100;
+  font-style: normal;
+  color: #539d53; /* Un verde neón le daría el toque final */
+}
